@@ -1,0 +1,3 @@
+INSERT INTO Section (id, title, description, image_link) VALUES (1, 'Notes', 'A section to write quick thoughts and ideas', 'https://play-lh.googleusercontent.com/vSNQds6F5roxdN4-a16JnQ9dWQVSZZ8OH4-iMAcNLaFQd3ItZWU8rOPOql4Ew5Hh1esX=w240-h480-rw');
+INSERT INTO Section (id, title, description, image_link) VALUES (2, 'Work', 'Store work related stuff', 'https://previews.123rf.com/images/erouanne/erouanne1011/erouanne101100026/8165653-3d-men-holding-the-word-work.jpg');
+INSERT INTO Section (id, title, description, image_link) VALUES (3, 'Personal', 'Organize the private life', 'https://99designs-blog.imgix.net/blog/wp-content/uploads/2017/08/BRAND-YOURSELF-700x420.jpg?auto=format&q=60&fit=max&w=930');
